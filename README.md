@@ -15,3 +15,6 @@ Project is created with:
 * HTML5
 * CSS/Bootstrap
 * Javascript intergrated with a Public API
+
+## Github live-link
+* https://sammy048.github.io/Dice-Game/
